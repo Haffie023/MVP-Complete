@@ -60,6 +60,7 @@ main {
 }
 
 .current-city {
+    color: #f65282;
     font-size: 38px;
     font-weight: 900;
     margin: 0;
