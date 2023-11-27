@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: rgb(169, 152, 152);
     font-family: "Roboto", sans-serif;
 }
 
@@ -67,7 +67,7 @@ main {
 }
 
 .current-details {
-    color: rgba(120, 12, 37, 0.4);
+    color: rgba(20, 17, 18, 0.4);
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
