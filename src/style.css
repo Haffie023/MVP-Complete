@@ -1,12 +1,12 @@
 body {
-    background: black;
+    background: grey;
     font-family: "Roboto", sans-serif;
 }
 
 
 
 .weather-app {
-    background: rgb(255, 47, 113);
+    background: transparent;
     max-width: 600px;
     margin: 45px auto;
     padding: 30px;
