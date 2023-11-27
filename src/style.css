@@ -1,12 +1,12 @@
 body {
-    background: grey;
+    background: rgb(150, 142, 128);
     font-family: "Roboto", sans-serif;
 }
 
 
 
 .weather-app {
-    background: white;
+    background: transparent;
     max-width: 600px;
     margin: 45px auto;
     padding: 30px;
@@ -26,7 +26,7 @@ header {
 .search-input {
     background-color: #d4e8eb;
     border: none;
-    color: rgba(39, 33, 66, 0.4);
+    color: rgba(49, 20, 174, 0.4);
     font-size: 16px;
     padding: 20px;
     width: 75%;
