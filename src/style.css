@@ -24,7 +24,7 @@ header {
 }
 
 .search-input {
-    background-color: #5a2cbc;
+    background-color: #828085;
     border: none;
     color: rgba(49, 20, 174, 0.4);
     font-size: 16px;
@@ -131,4 +131,7 @@ footer {
     width: 45px;
     display: block;
     margin: 0 auto;
+}
+.description {
+    color: #5e3bb7;
 }
