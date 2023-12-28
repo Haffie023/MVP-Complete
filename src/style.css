@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    border-bottom: 1px solid #8f78c9;
+    border-bottom: 1px solid #322b42;
     padding-bottom: 30px;
 
 
@@ -24,9 +24,9 @@ header {
 }
 
 .search-input {
-    background-color: #9b7bcc;
+    background-color: #48109c;
     border: none;
-    color: rgba(45, 9, 203, 0.4);
+    color: rgba(220, 17, 74, 0.4);
     font-size: 16px;
     padding: 20px;
     width: 75%;
@@ -37,7 +37,7 @@ header {
     margin-left: 5px;
     font-size: 16px;
     background-color: #5906b8;
-    color: rgb(9, 7, 151);
+    color: rgb(195, 20, 43);
     border: none;
     padding: 20px 45px;
     line-height: 1;
